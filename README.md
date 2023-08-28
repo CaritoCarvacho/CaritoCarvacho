@@ -5,7 +5,11 @@
 
 <p style="text-align: center;">Soy una apasionada desarrolladora de software. Aunque solo llevo 5 meses en la programación, he tenido la oportunidad de trabajar en proyectos reales y aprender lecciones valiosas.
 <br/>  
-Participé en un equipo de desarrollo que trabajó en un proyecto de E-Commerce de ropa deportiva femenina. Esta experiencia me permitió explorar el flujo de trabajo de GitHub y enfrentar los desafíos de traducir ideas en soluciones concretas en equipo. Además de proyectos en equipo, también realicé un proyecto individual. Mi fascinación por la programación proviene de su capacidad para facilitar la comunicación entre personas, influenciada por mi formación como fonoaudióloga, donde aprendí a valorar las habilidades de comunicación y su impacto en las personas. Mi actitud proactiva y habilidades para trabajar en equipo se destacaron, permitiéndome contribuir significativamente. Aunque me inclino al backend, también he desarrollado habilidades en el frontend, brindándome una perspectiva integral en la creación de soluciones tecnológicas. Estoy emocionada por el futuro en la programación. Cada día es una oportunidad para aprender, crecer y crear soluciones impactantes.</p>
+Participé en un equipo de desarrollo que trabajó en un proyecto de E-Commerce de ropa deportiva femenina. Esta experiencia me permitió explorar el flujo de trabajo de GitHub y enfrentar los desafíos de traducir ideas en soluciones concretas en equipo. Además de proyectos en equipo, también realicé un proyecto individual.
+<br/> 
+Mi fascinación por la programación proviene de su capacidad para facilitar la comunicación entre personas, influenciada por mi formación como fonoaudióloga, donde aprendí a valorar las habilidades de comunicación y su impacto en las personas. Mi actitud proactiva y habilidades para trabajar en equipo se destacan, permitiéndome contribuir significativamente. 
+<br/> 
+Aunque me inclino al backend, también he desarrollado habilidades en el frontend, brindándome una perspectiva integral en la creación de soluciones tecnológicas. Estoy emocionada por el futuro en la programación. Cada día es una oportunidad para aprender, crecer y crear soluciones impactantes.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
